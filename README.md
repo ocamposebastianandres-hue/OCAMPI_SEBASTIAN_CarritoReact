@@ -4,12 +4,10 @@
 
 | | |
 |---|---|
-| **Aprendiz** | _(escribe aquí tu nombre completo)_ |
-| **Ficha** | _(escribe aquí tu ficha)_ |
-| **Instructor** | Daniel Alfonso Martínez Payán |
-| **Tecnología usada** | React (con Vite) |
-| **Repositorio público** | _(pega aquí el enlace de GitHub/GitLab)_ |
-| **Despliegue (opcional)** | _(enlace, si lo subes a Vercel/Netlify)_ |
+| **Aprendiz** ocampo sebas
+| **Ficha** 3409924
+| **Instructor**  Daniel Alfonso Martínez Payán 
+| **Tecnología usada**  React (con Vite) 
 
 ## Qué hace la aplicación
 
